@@ -1,0 +1,23 @@
+{
+  "java.compile.nullAnalysis.mode": "disabled",
+  "detectedConfig": {
+    "typescript": true,
+    "naming": "Kebab Case",
+    "unit": "em",
+    "framework": "react",
+    "styling": "'Inline Styles"
+  },
+  "locofyConfig": {
+    "project_name": "accenture-9",
+    "id": "654f248d02b76f2b7a57282f",
+    "framework": "react-nextjs",
+    "typescript": true,
+    "path": "public/",
+    "componentsPath": "c:\\Shaadow\\src\\components",
+    "screensPath": "c:\\Shaadow\\src\\screens",
+    "styling": "CSS Modules",
+    "unit": "em",
+    "naming": "Kebab Case"
+  },
+  "java.configuration.updateBuildConfiguration": "interactive"
+}

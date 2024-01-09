@@ -1,0 +1,132 @@
+<<<<<<< HEAD
+# OSX
+#
+.DS_Store
+=======
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+ios/.xcode.env.local
+=======
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+.cxx/
+*.keystore
+!debug.keystore
+=======
+# testing
+/coverage
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+=======
+# next.js
+/.next/
+/out/
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+=======
+# production
+/build
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
+=======
+# misc
+.DS_Store
+*.pem
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+# Bundle artifact
+*.jsbundle
+=======
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+# Ruby / CocoaPods
+/ios/Pods/
+/vendor/bundle/
+=======
+# local env files
+.env*.local
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+# Temporary files created by Metro to check the health of the file watcher
+.metro-health-check*
+=======
+# vercel
+.vercel
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+# testing
+/coverage
+=======
+# typescript
+*.tsbuildinfo
+
+>>>>>>> Incoming

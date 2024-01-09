@@ -1,0 +1,40 @@
+logo details--------------------------------------------------
+
+logo yellow color: #FCD502 (gradient at 0% left)
+logo black color: #000000 (gradient at 75% right)
+
+logo text font style - dancing script
+
+--------------------------------------------------------------
+
+
+
+Tunes app keystore password : a.b.c.1.2.3
+
+Twitter -------------------------------------------------------------------------------------------------
+
+twitter API Key--- EtVLqRSqiplB8S8FFvijY5nkA
+
+API Key Secret--- Z7DXD2MkB3Uwq5Da4giW2rsOp1QCVjCjdZy5LrpK2Khr7H10JK
+
+//////////////////////////
+
+
+twitter OAuth 2.0 Client ID and Client Secret
+
+client id---    U25ZTTVwMXhzYXpndTdCTUlaSHc6MTpjaQ
+Client Secret ---- nRBaHLK5FZhEdq4WyMuVqC7sTbbEJXo_TvTPcMxwu38fxCIuxw
+
+////////////////////////////////////
+ 
+twitter Authentication Tokens
+
+Bearer Token --- AAAAAAAAAAAAAAAAAAAAAExNpwEAAAAAH%2Bu%2FjHdGpvhXsrgEc%2FC4gysCnJg%3DifnXJ1LLZNQjhfedMYhAvKK0mEloFxo9uVFuIyfzqafRQl7h90
+
+Access Token and Secret /////////////////////////////
+--- Access Token --- 1669689531136897025-csTcOCSFpWnzYyChPLeKo2XJe7i5dJ
+--- Access Token Secret --- lJsKgw82rw4zId9QAMEEcc9FwO83rk0hcEa3x7aHpTOWK
+
+
+callback---
+https://shaadowapp-ba0fa.firebaseapp.com/__/auth/handler
